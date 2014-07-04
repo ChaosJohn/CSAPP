@@ -7,5 +7,6 @@ Representing and Manipulating Information
 > * Section 2.3 Integer Arithmetic 
 > * Section 2.4 Floating Point 
 > * Section 2.5 Summary 
+
 ******
 
